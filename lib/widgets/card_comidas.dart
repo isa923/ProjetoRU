@@ -36,7 +36,8 @@ class _CardComidasState extends State<CardComidas> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 350, // Define uma largura fixa para o cartão
+      width: 360,
+      height: 200, // Define uma largura fixa para o cartão
       margin: const EdgeInsets.symmetric(
           horizontal: 8), // Espaçamento entre os cartões
       child: InkWell(
