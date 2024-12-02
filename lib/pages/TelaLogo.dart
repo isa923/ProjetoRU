@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ProjetoRU/pages/Tela1.dart';
+import 'package:myapp/pages/Tela1.dart';
 
 class TelaLogo extends StatefulWidget {
   const TelaLogo({super.key});
