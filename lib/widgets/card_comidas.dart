@@ -1,5 +1,5 @@
-import 'package:myapp/domain/comidas.dart';
-import 'package:myapp/pages/detail_page.dart';
+import 'package:ProjetoRU/domain/comidas.dart';
+import 'package:ProjetoRU/pages/detail_page.dart';
 import 'package:flutter/material.dart';
 
 class CardComidas extends StatefulWidget {

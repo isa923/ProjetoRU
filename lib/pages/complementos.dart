@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/domain/pratos_almoco.dart';
+import 'package:ProjetoRU/domain/pratos_almoco.dart';
 
 class Complementos extends StatefulWidget {
   final OpcoesAlmoco prato;

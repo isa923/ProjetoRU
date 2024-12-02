@@ -1,4 +1,4 @@
-import 'package:myapp/domain/pratos_almoco.dart';
+import 'package:ProjetoRU/domain/pratos_almoco.dart';
 
 class Database {
   static List<OpcoesAlmoco> Pratos = [

@@ -1,5 +1,5 @@
-import 'package:myapp/db/data_base.dart';
-import 'package:myapp/widgets/Card_Pratos_Disponiveis.dart';
+import 'package:ProjetoRU/db/data_base.dart';
+import 'package:ProjetoRU/widgets/Card_Pratos_Disponiveis.dart';
 import 'package:flutter/material.dart';
 
 class HomePageN extends StatefulWidget {

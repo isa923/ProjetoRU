@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/db/salgados_page.dart';
-import 'package:myapp/pages/home_page.dart';
-import 'package:myapp/pages/home_pageN.dart';
-import 'package:myapp/pages/deteil_page.dart';
-import 'package:myapp/domain/salgado_model.dart';
+import 'package:ProjetoRU/db/salgados_page.dart';
+import 'package:ProjetoRU/pages/home_page.dart';
+import 'package:ProjetoRU/pages/home_pageN.dart';
+import 'package:ProjetoRU/pages/deteil_page.dart';
+import 'package:ProjetoRU/domain/salgado_model.dart';
 
 class TelaCategoria extends StatefulWidget {
   const TelaCategoria({super.key});

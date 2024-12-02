@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/db/database.dart';
-import 'package:myapp/widgets/card_comidas.dart';
+import 'package:ProjetoRU/db/database.dart';
+import 'package:ProjetoRU/widgets/card_comidas.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

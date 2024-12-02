@@ -1,6 +1,6 @@
-import 'package:myapp/domain/pratos_almoco.dart';
+import 'package:ProjetoRU/domain/pratos_almoco.dart';
 import 'package:flutter/material.dart';
-import 'package:myapp/pages/complementos.dart';
+import 'package:ProjetoRU/pages/complementos.dart';
 
 class CardPratosDisponiveis extends StatefulWidget {
   final OpcoesAlmoco pratosDisponiveis;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/pages/TelaCategoria.dart';
+import 'package:ProjetoRU/pages/TelaCategoria.dart';
 
 class TelaCadastrar extends StatefulWidget {
   const TelaCadastrar({super.key});

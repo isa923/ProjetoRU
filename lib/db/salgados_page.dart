@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/domain/salgado_model.dart';
+import 'package:ProjetoRU/domain/salgado_model.dart';
 
 class ListaSalgados extends StatelessWidget {
   final List<Salgado> salgados = [

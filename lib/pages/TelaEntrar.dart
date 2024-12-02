@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/pages/TelaCategoria.dart';
+import 'package:ProjetoRU/pages/TelaCategoria.dart';
 
 class TelaEntrar extends StatefulWidget {
   const TelaEntrar({super.key});
