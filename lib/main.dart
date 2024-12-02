@@ -3,6 +3,6 @@ import 'package:ProjetoRU/pages/TelaLogo.dart';
 
 void main() {
   runApp(
-    const MaterialApp(home: TelaLogo()),
+    const MaterialApp(home: TelaLoo()),
   );
 }
