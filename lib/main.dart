@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:ProjetoRU/pages/TelaLogo.dart';
+import 'package:myapp/pages/TelaLogo.dart';
 
 void main() {
   runApp(
-    const MaterialApp(home: TelaLoo()),
+    const MaterialApp(home: TelaLogo()),
   );
 }
